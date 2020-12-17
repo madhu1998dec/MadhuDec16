@@ -1,4 +1,8 @@
 today is wednesday
 month is december
 year is 2020
+<<<<<<< HEAD
 find astroger who said 2020 is good year
+=======
+Sunday is a holiday
+>>>>>>> br1
